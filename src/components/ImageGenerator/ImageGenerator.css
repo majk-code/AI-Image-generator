@@ -1,0 +1,105 @@
+.image-generator {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #151515;
+}
+
+.image-generator-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 40px;
+    background-color: #daf125;
+}
+
+.image-generator-image {
+    position: relative;
+}
+
+.image-generated-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.image-generated-text span {
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    max-width: 600px;
+}
+
+h1 {
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+.image-generator img {
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 40px;
+}
+
+.prompt-wrapper {
+    display: flex;
+    margin-top: 60px;
+    width: 100%;
+    background-color: #303030;
+    border-radius: 40px;
+}
+
+.prompt-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.prompt-input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 24px 24px 24px 32px;
+    width: 540px;
+}
+
+.generate-btn {
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    gap: 16px;
+    background-color: #daf125;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.generate-btn:hover {
+    background-color: #93a31a;
+}
+
+.generate-btn img {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.generate-btn button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+}
