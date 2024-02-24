@@ -1,3 +1,8 @@
+!IMPORTANT this app will not work if you dont have active billing on OpenAI.
+Preview look of app: ![Uploading Zrzut ekranu 2024-02-24 o 15.23.46.png…]()
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
