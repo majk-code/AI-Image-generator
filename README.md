@@ -1,5 +1,7 @@
 !IMPORTANT this app will not work if you dont have active billing on OpenAI.
-Preview look of app: ![Zrzut ekranu 2024-02-24 o 15 23 46](https://github.com/majk-code/AI-Image-generator/assets/111990774/f524a3ff-a07a-45dc-8dd6-b88c417485ca)
+Preview look of app: 
+
+![Zrzut ekranu 2024-02-24 o 15 23 46](https://github.com/majk-code/AI-Image-generator/assets/111990774/f524a3ff-a07a-45dc-8dd6-b88c417485ca)
 
 # Getting Started with Create React App
 
