@@ -1,7 +1,5 @@
 !IMPORTANT this app will not work if you dont have active billing on OpenAI.
-Preview look of app: ![Uploading Zrzut ekranu 2024-02-24 o 15.23.46.png…]()
-
-
+Preview look of app: ![Zrzut ekranu 2024-02-24 o 15 23 46](https://github.com/majk-code/AI-Image-generator/assets/111990774/f524a3ff-a07a-45dc-8dd6-b88c417485ca)
 
 # Getting Started with Create React App
 
@@ -73,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
